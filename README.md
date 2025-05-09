@@ -58,7 +58,3 @@ avrdude -c <programmer> -p m328p -U flash:w:pong.hex:i
 
 ***
 
-## 👨‍💻 Authors
-
-- Mason Crim
-- Jacob Hoke
